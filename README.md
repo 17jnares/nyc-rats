@@ -5,6 +5,11 @@ Motivated by the rise in reported sightings during the Covid-19 pandemic, the pr
 
 The analysis combines **open data ingestion**, **nearest-neighbor spatial modeling**, and **interactive visualization** to illustrate how public datasets can be leveraged to study behavioral and environmental dynamics in a city.
 
+## 📸 Preview
+
+![Animated demo](docs/demo.gif)
+
+
 ## 🌐 Live Demo
 [➡️ View the interactive map here](https://17jnares.github.io/nyc-rats/nyc_rats_portfolio_notebook.html)
 
