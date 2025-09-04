@@ -11,7 +11,7 @@ The analysis combines **open data ingestion**, **nearest-neighbor spatial modeli
 
 
 ## 🌐 Live Demo
-[➡️ View the interactive map here](https://17jnares.github.io/nyc-rats/nyc_rats_portfolio_notebook.html)
+[➡️ View the full jupyter notebook here](https://17jnares.github.io/nyc-rats/nyc_rats_portfolio_notebook.html)
 
 ---
 
