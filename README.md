@@ -18,9 +18,6 @@ The analysis combines **open data ingestion**, **nearest-neighbor spatial modeli
 
 ## 📂 Project Structure
 nyc-rats/
-│
-├── notebooks/
-│ └── nyc_rats_portfolio_notebook.ipynb # main analysis + visualization
-│
+├── nyc_rats_portfolio_notebook.ipynb # main analysis + visualization
 ├── README.md # project overview (this file)
 └── requirements.txt # dependencies
