@@ -5,6 +5,9 @@ Motivated by the rise in reported sightings during the Covid-19 pandemic, the pr
 
 The analysis combines **open data ingestion**, **nearest-neighbor spatial modeling**, and **interactive visualization** to illustrate how public datasets can be leveraged to study behavioral and environmental dynamics in a city.
 
+## 🌐 Live Demo
+[➡️ View the interactive map here](https://17jnares.github.io/nyc-rats/nyc_rats_portfolio_notebook.html)
+
 ---
 
 ## 🔑 Key Skills Demonstrated
@@ -17,7 +20,9 @@ The analysis combines **open data ingestion**, **nearest-neighbor spatial modeli
 ---
 
 ## 📂 Project Structure
+```
 nyc-rats/
 ├── nyc_rats_portfolio_notebook.ipynb # main analysis + visualization
 ├── README.md # project overview (this file)
 └── requirements.txt # dependencies
+```
